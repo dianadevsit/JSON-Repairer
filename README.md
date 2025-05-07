@@ -16,4 +16,8 @@
     View it live on my portfolio:  
     <a href="https://dianadevsit.github.io/Profile-Site/" target="_blank" style="color:#007bff; text-decoration:underline;">Visit Project</a>
   </p>
+  <p>
+     Here is also the direct link:
+    <a href="https://dianadevsit.github.io/JSON-Repairer/" target="_blank" style="color:#007bff; text-decoration:underline;">JSON Repairer</a>
+  </p>
 </section>
